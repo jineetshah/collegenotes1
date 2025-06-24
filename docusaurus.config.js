@@ -50,13 +50,13 @@ const config = {
             label: 'Notes',
           },
           {
-            href: 'https://github.com/BhagatHarsh/CollegeNotes',
+            href: 'https://github.com/jineetshah',
             label: 'GitHub',
             position: 'right',
           },
-            {
-            href: 'https://replit.com/@HarshBhagat1/CollegeNotes',
-            label: 'Replit',
+          {
+            href: 'https://www.linkedin.com/in/jineet-shah-aa259a226/',
+            label: 'LinkedIn',
             position: 'right',
           },
         ],
@@ -74,7 +74,7 @@ const config = {
             // ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Built with ❤️ by Jineet Shah 1.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Built with ❤️ by Jineet Shah.`,
       },
       prism: {
         theme: lightCodeTheme,

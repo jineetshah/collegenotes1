@@ -1,5 +1,12 @@
-# This is a repository of code.
+---
+id: intro
+title: Welcome to College Notes
+---
 
-## This code was written by students in their CSE250 Data Structures course (OdinLabs platform).
+Welcome to College Notes! This website is designed to provide you with comprehensive lecture notes for various college courses. 
 
-It would be very funny when they actually learn to code and then look back at these snippets!
+## How to Use This Site
+
+Each course has its own dedicated folder. To access the notes for a specific lecture, simply navigate to the corresponding course folder and select the lecture you're interested in.
+
+We hope you find these notes helpful in your studies!
