@@ -74,7 +74,7 @@ const config = {
             // ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Built with ❤️ by Jineet Shah.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Built with ❤️ by Jineet Shah 1.`,
       },
       prism: {
         theme: lightCodeTheme,
