@@ -9,4 +9,4 @@ Welcome to College Notes! This website is designed to provide you with comprehen
 
 Each course has its own dedicated folder. To access the notes for a specific lecture, simply navigate to the corresponding course folder and select the lecture you're interested in.
 
-We hope you find these notes helpful in your studies!
+We hope you find these notes helpful in your studies!!
